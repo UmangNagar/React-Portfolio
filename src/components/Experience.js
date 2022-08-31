@@ -2,7 +2,7 @@ const Experience=_=>{
     return(
         <section>
             <h3>♟ Experience : </h3>
-            <h5>Geekster</h5>
+            <h4>Geekster</h4>
             <p>
             • Learned Core Concepts of DSA,HTML,CSS,JavaScript etc..<br/>
 • Developed Customized Video player named EasyStream using
@@ -12,6 +12,9 @@ Rank 254/10364 in LeetCode Biweekly Contest 42 during my
 training.Solved 50+ DSA/Coding questions on Leetcode.<br/>
 • JAVA | JavaScript | Git | GitHub | HTML | CSS | DSA 
             </p>
+        <h4>NITS Technologies</h4>
+        <p>• Worked on core concepts of programming and developed few
+projects by using NetBeans(Java - IDE).</p>
         </section>
     )
 }
